@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration
+.env
+
+# OS generated files
+.DS_Store
+
+# Ignore log files
+*.log
